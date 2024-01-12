@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_elements_header_sliders",
+  "info": {
+    "name": "headerSlider",
+    "icon": "ad"
+  },
+  "options": {},
+  "attributes": {
+    "images": {
+      "type": "component",
+      "repeatable": true,
+      "component": "elements.images"
+    }
+  }
+}

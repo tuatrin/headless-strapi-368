@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_layout_headers",
+  "info": {
+    "name": "Header",
+    "icon": "arrow-alt-circle-up"
+  },
+  "options": {},
+  "attributes": {
+    "Slider": {
+      "type": "component",
+      "repeatable": true,
+      "component": "elements.slider"
+    }
+  }
+}

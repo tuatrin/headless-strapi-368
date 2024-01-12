@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_elements_contents",
+  "info": {
+    "name": "Contents",
+    "icon": "align-justify",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "article": {
+      "type": "text",
+      "required": true
+    }
+  }
+}
