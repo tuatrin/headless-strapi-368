@@ -38,10 +38,8 @@
       "component": "elements.footer-image",
       "required": false
     },
-    "Contents": {
-      "type": "component",
-      "repeatable": true,
-      "component": "elements.contents"
+    "content": {
+      "type": "richtext"
     }
   }
 }
