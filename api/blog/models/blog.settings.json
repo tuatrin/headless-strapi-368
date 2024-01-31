@@ -40,6 +40,9 @@
     },
     "content": {
       "type": "richtext"
+    },
+    "subTitle": {
+      "type": "string"
     }
   }
 }
